@@ -34,7 +34,7 @@ This is a [Bitfocus Companion](https://bitfocus.io/companion) module to control 
 
 ## Known Limitations
 
-- Does not recive timecode feedback from Meld Studio as it currently is not supported
+- Does not receive timecode feedback from Meld Studio as it currently is not supported
 
 ## Installation (Development)
 
