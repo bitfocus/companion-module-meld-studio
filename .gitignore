@@ -1,0 +1,14 @@
+﻿# Dependency directories
+node_modules/
+
+# Build outputs
+dist/
+pkg/
+
+# Logs
+*.log
+yarn-error.log
+
+# Editor settings
+.vscode/
+.idea/

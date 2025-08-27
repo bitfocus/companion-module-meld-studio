@@ -1,0 +1,23 @@
+{
+  "id": "meldstudio",
+  "name": "Meld Studio",
+  "shortname": "meldstudio",
+  "description": "Control Meld Studio via Qt WebChannel (ws://host:13376)",
+  "version": "1.0.0",
+  "license": "MIT",
+  "repository": "https://github.com/yourname/companion-module-meld-studio",
+  "bugs": "https://github.com/yourname/companion-module-meld-studio/issues",
+  "maintainers": [
+    { "name": "James Barnette", "email": "calmasacow@gmail.com" }
+  ],
+  "runtime": {
+    "type": "node22",
+    "api": "nodejs-ipc",
+    "apiVersion": "1.0.0",
+    "entrypoint": "../main.js"
+  },
+  "legacyIds": [],
+  "manufacturer": "Custom",
+  "products": ["Meld Studio"],
+  "keywords": ["streaming", "scenes", "audio", "effects", "meld", "webchannel"]
+}
