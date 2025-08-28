@@ -3,7 +3,7 @@
   "name": "Meld Studio",
   "shortname": "meldstudio",
   "description": "Control Meld Studio via Qt WebChannel (ws://host:13376)",
-  "version": "1.0.0",
+  "version": "0.0.0",
   "license": "MIT",
   "repository": "https://github.com/yourname/companion-module-meld-studio",
   "bugs": "https://github.com/yourname/companion-module-meld-studio/issues",
