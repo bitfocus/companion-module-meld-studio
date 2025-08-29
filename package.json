@@ -1,19 +1,24 @@
 {
   "name": "companion-module-meld-studio",
-  "version": "1.0.0",
+  "version": "0.0.0",
   "description": "Control Meld Studio via Qt WebChannel",
   "main": "main.js",
-  "type": "module",
+  "type": "commonjs",
   "license": "MIT",
   "private": true,
+  "scripts": {
+    "package": "companion-module-build"
+  },
   "dependencies": {
     "@companion-module/base": "~1.11.3",
+    "qwebchannel": "^6.2.0",
     "ws": "^8.18.0"
   },
   "devDependencies": {
     "@companion-module/tools": "^2.3.0"
   },
-  "scripts": {
-    "package": "companion-module-build"
+  "browser": {
+    "bufferutil": false,
+    "utf-8-validate": false
   }
 }

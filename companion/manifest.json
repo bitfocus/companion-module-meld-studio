@@ -17,7 +17,7 @@
     "entrypoint": "../main.js"
   },
   "legacyIds": [],
-  "manufacturer": "Custom",
+  "manufacturer": "Meld Studio",
   "products": ["Meld Studio"],
   "keywords": ["streaming", "scenes", "audio", "effects", "meld", "webchannel"]
 }
