@@ -2,13 +2,11 @@
 
 This is a [Bitfocus Companion](https://bitfocus.io/companion) module to control [Meld Studio](https://meldstudio.com) using its **Qt WebChannel** API.
 
-
 ### 1.0.0 Initial Release highlights
+
 - Works on Companion v4 with CommonJS.
 - No more local vendor path issues — uses `qwebchannel` npm package.
 - Timecode variables for recording/streaming and ready-made presets.
-
-
 
 ## Features
 
@@ -19,7 +17,6 @@ This is a [Bitfocus Companion](https://bitfocus.io/companion) module to control 
 - **Recording control**: start, stop, and toggle recording directly from Companion.
 - **Streaming control**: start, stop, and toggle streaming directly from Companion.
 - Simple configuration (host/port).
-
 
 ## Requirements
 
@@ -51,3 +48,4 @@ git clone https://github.com/calmasacow/companion-module-meld-studio.git
 cd companion-module-meld-studio
 yarn install
 yarn build
+```
