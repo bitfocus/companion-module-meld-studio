@@ -1,6 +1,6 @@
 {
 	"name": "companion-module-meld-studio",
-	"version": "1.0.0",
+	"version": "1.0.1",
 	"description": "Control Meld Studio via Qt WebChannel",
 	"main": "main.js",
 	"type": "commonjs",
