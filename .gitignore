@@ -12,3 +12,7 @@ yarn-error.log
 # Editor settings
 .vscode/
 .idea/
+
+/.yarn
+package-lock.json
+/*.tgz
